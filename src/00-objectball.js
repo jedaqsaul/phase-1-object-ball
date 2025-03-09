@@ -185,7 +185,7 @@ function numPointsScored(playerName) {
   }
   return "Player Unavailable";
 }
-console.log("Aquila Jedidiah");
+
 console.log(numPointsScored("Brendan Haywood"));
 
 function shoeSize(playerName) {
